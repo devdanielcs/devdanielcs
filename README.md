@@ -1,9 +1,9 @@
 ## Olá, sou Daniel 🙋‍♂️
 
 - Desenvolvedor Back-end na Cielo 💙🚀
-- Apaixonado pelas ferramentas e serviços da Microsoft 👨‍💻
-- Tenho um doguinho e um Escort XR3 🐶🚗
+- Apaixonado por carros antigos 🚗
 - Carioca morando em São Paulo 🏢
+- Friends not Food 🐄🌱
 
 ## Conhecimentos 📕
 <div style="display: inline_block">
