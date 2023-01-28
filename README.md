@@ -17,6 +17,3 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 	<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
-
-# **Details**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielcs&layout=compact)](https://github.com/devdanielcs/github-readme-stats)
