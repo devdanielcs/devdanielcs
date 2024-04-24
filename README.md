@@ -1,10 +1,14 @@
-## 👋 Hi there, I'm Daniel Silva! Welcome to my GitHub profile!
+### 👋 Hi, I'm Daniel!
 
-💙💼 Currently, I'm working on projects for the e-commerce team at Cielo, a Brazilian financial services company, where I contribute my skills to build innovative solutions.
+💙💼 I work as a back-end software developer at Cielo, as part of a dedicated team focused on delivering an exceptional customer experience through e-commerce portals..
 
-🧑🏻‍💻 I am deeply passionate about technology and software architecture, and I strive to create efficient and scalable solutions in my work.
+📍São Paulo, Brazil.
 
-📍 Living in São Paulo, Brazil.
+<div>
+   <a href="https://github.com/devdanielcs">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdanielcs&layout=compact&langs_count=7&theme=shadow_blue"/>
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=devdanielcs&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+</div>
 
 ## **Technologies**
 <div style="display: inline_block"><br>
